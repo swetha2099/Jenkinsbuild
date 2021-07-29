@@ -9,6 +9,7 @@ namespace Jenkinsbuild
             Console.WriteLine("Hello World!");
             int a = 10;
             Console.WriteLine(a);
+            a
         }
     }
 }
